@@ -1,6 +1,6 @@
 // lib/main.dart
 import 'package:flutter/material.dart';
-import 'product_list_page.dart';
+import 'views/product_list_page.dart';
 
 void main() {
   runApp(const MyApp());

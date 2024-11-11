@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'api_service.dart';
-import 'product_model.dart';
+import '../services/api_service.dart';
+import '../models/product_model.dart';
 import 'product_detail_page.dart';
 
 class ProductListPage extends StatefulWidget {
